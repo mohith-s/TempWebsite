@@ -1,0 +1,103 @@
+h1, h3,h4{
+  padding: 3% 0;
+}
+
+#title {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.title-sec {
+  padding: 7% 15%;
+  background-color: #00ead3;
+}
+
+.title-head {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.title-btn {
+  padding: 3% 3%;
+  margin-right: 2%;
+  margin-top: 3%;
+  font-family: 'Ubuntu',sans-serif;
+}
+
+.nav-top {
+  padding: 3% 3%;
+}
+
+.brand-name {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.title-image {
+  width:80%;
+  padding: 7% 3%;
+
+}
+
+.nav-item {
+  padding: 2% 3%;
+}
+
+@media (max-width:984px) {
+  .title-head {
+    text-align: center;
+    padding: 7% 3%;
+  }
+}
+
+/*Products*/
+#products {
+  text-align: center;
+  background-color: #ba135d;
+  padding: 7% 0;
+  font-family: 'Lobster',cursive;
+  font-weight: 500;
+}
+.prod-head{
+  padding-bottom: 2%;
+}
+.carousel-shirt {
+  width: 15%;
+  margin: 0 3%;
+}
+
+.product-image {
+  padding-bottom: 3%;
+
+}
+
+/*Pricing*/
+#pricing {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #f9b208;
+  font-family: 'Ubuntu',sans-serif;
+}
+
+.card {
+  margin: 3% 3%;
+}
+
+/*Download*/
+
+#Dwnld{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #f4a9a8;
+}
+
+/*Footer*/
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #00ead3;
+}
+
+.footer-logo {
+  padding: 3% 2%;
+}
